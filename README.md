@@ -3,6 +3,6 @@
 :star2: About Me :star2:
 
 - Master of Mathematics
-- Loves number, analysis, laerning new skills
+- Loves numbers, analysis, laerning new skills
 - Into making dashboards to show visualizations of data
 - Currently in process of learning Python
